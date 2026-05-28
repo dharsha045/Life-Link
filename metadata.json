@@ -1,0 +1,6 @@
+{
+  "name": "Clash Timer",
+  "description": "An upgrade reminder and countdown tracker designed for mobile gamers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

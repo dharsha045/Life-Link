@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Center our premium generated gold shield logo strictly inside a 66dp safe zone (fits 108dp canvas) -->
+    <item
+        android:width="66dp"
+        android:height="66dp"
+        android:drawable="@drawable/clash_shield_logo_1779988344711"
+        android:gravity="center" />
+</layer-list>
